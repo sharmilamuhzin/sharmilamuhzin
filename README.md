@@ -29,11 +29,13 @@ I am into Web & App Development, Internet of Things. -->
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />  
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/>
  <br> -->
 
 <p align="start">
   <a href="#!">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma,git,github,materialui,mongodb,visualstudio,redux,firebase,nodejs,typescript" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma,git,github,materialui,mongodb,visualstudio,redux,firebase,nodejs,typescript,tailwind,postman" />
   </a>
 </p>
 
