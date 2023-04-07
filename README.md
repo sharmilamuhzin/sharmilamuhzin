@@ -4,8 +4,8 @@
   </a>
 </h1>
 </h1>
-react js developer
-## react js developer
+Node js developer
+## Node js developer
 <!-- # Let's Talk Numbers and Stats
 I am into Web & App Development, Internet of Things. -->
 
